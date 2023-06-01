@@ -4,7 +4,7 @@
 
 
 ### Project  
-- 🔭 I’m currently working on (https://github.com/ImdieStudios/Death-Traveller)  
+- 🔭 I’m currently working on Imdie Studios game porject  
   
 
 
