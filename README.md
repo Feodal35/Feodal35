@@ -1,4 +1,4 @@
-### <div align="center">💻Hello, I'm Serkan Karaca. I work as a full-time game developer at Imdie Studios remotely.</div>  
+### <div align="center">💻Hello, I'm Serkan Karaca. I work as a full-time developer.</div>  
   
 
 
