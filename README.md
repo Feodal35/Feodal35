@@ -4,7 +4,7 @@
 
 
 ### Project  
-- 🔭 I’m currently working on Imdie Studios game porject  
+- 🔭 I’m currently working on porject  
   
 
 
